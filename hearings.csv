@@ -1,32 +1,32 @@
 hearing_id,case_number,hearing_date,hearing_time,courtroom,notes
-H001,CC001,2026-11-01,09:00,Courtroom 1,Fictional scheduled hearing
-H002,CC002,2026-11-02,10:30,Courtroom 2,Fictional scheduled hearing
-H003,CC003,2026-11-03,11:00,Courtroom 3,Fictional scheduled hearing
-H004,CC004,2026-11-04,12:30,Courtroom 4,Fictional scheduled hearing
-H005,CC005,2026-11-05,13:00,Courtroom 5,Fictional scheduled hearing
-H006,CC006,2026-11-06,14:30,Courtroom 1,Fictional scheduled hearing
-H007,CC007,2026-11-07,15:00,Courtroom 2,Fictional scheduled hearing
-H008,CC008,2026-11-08,09:30,Courtroom 3,Fictional scheduled hearing
-H009,CC009,2026-11-09,10:00,Courtroom 4,Fictional scheduled hearing
-H010,CC010,2026-11-10,11:30,Courtroom 5,Fictional scheduled hearing
-H011,CC011,2026-11-11,12:00,Courtroom 1,Fictional scheduled hearing
-H012,CC012,2026-11-12,13:30,Courtroom 2,Fictional scheduled hearing
-H013,CC013,2026-11-13,14:00,Courtroom 3,Fictional scheduled hearing
-H014,CC014,2026-11-14,15:30,Courtroom 4,Fictional scheduled hearing
-H015,CC015,2026-11-15,09:00,Courtroom 5,Fictional scheduled hearing
-H016,CC016,2026-11-16,10:30,Courtroom 1,Fictional scheduled hearing
-H017,CC017,2026-11-17,11:00,Courtroom 2,Fictional scheduled hearing
-H018,CC018,2026-11-18,12:30,Courtroom 3,Fictional scheduled hearing
-H019,CC019,2026-11-19,13:00,Courtroom 4,Fictional scheduled hearing
-H020,CC020,2026-11-20,14:30,Courtroom 5,Fictional scheduled hearing
-H021,CC021,2026-11-21,15:00,Courtroom 1,Fictional scheduled hearing
-H022,CC022,2026-11-22,09:30,Courtroom 2,Fictional scheduled hearing
-H023,CC023,2026-11-23,10:00,Courtroom 3,Fictional scheduled hearing
-H024,CC024,2026-11-24,11:30,Courtroom 4,Fictional scheduled hearing
-H025,CC025,2026-11-25,12:00,Courtroom 5,Fictional scheduled hearing
-H026,CC026,2026-11-26,13:30,Courtroom 1,Fictional scheduled hearing
-H027,CC027,2026-11-27,14:00,Courtroom 2,Fictional scheduled hearing
-H028,CC028,2026-11-28,15:30,Courtroom 3,Fictional scheduled hearing
-H029,CC029,2026-11-01,09:00,Courtroom 4,Fictional scheduled hearing
-H030,CC030,2026-11-02,10:30,Courtroom 5,Fictional scheduled hearing
-H031,CC035,2026-11-29,12:30,01,IN PROGRESS
+H001,CC001,2026-11-01,09:00,Courtroom 1,
+H002,CC002,2026-11-02,10:30,Courtroom 2,
+H003,CC003,2026-11-03,11:00,Courtroom 3,
+H004,CC004,2026-11-04,12:30,Courtroom 4,
+H005,CC005,2026-11-05,13:00,Courtroom 5,
+H006,CC006,2026-11-06,14:30,Courtroom 1,
+H007,CC007,2026-11-07,15:00,Courtroom 2,
+H008,CC008,2026-11-08,09:30,Courtroom 3,
+H009,CC009,2026-11-09,10:00,Courtroom 4,
+H010,CC010,2026-11-10,11:30,Courtroom 5,
+H011,CC011,2026-11-11,12:00,Courtroom 1,
+H012,CC012,2026-11-12,13:30,Courtroom 2,
+H013,CC013,2026-11-13,14:00,Courtroom 3,
+H014,CC014,2026-11-14,15:30,Courtroom 4,
+H015,CC015,2026-11-15,09:00,Courtroom 5,
+H016,CC016,2026-11-16,10:30,Courtroom 1,
+H017,CC017,2026-11-17,11:00,Courtroom 2,
+H018,CC018,2026-11-18,12:30,Courtroom 3,
+H019,CC019,2026-11-19,13:00,Courtroom 4,
+H020,CC020,2026-11-20,14:30,Courtroom 5,
+H021,CC021,2026-11-21,15:00,Courtroom 1,
+H022,CC022,2026-11-22,09:30,Courtroom 2,
+H023,CC023,2026-11-23,10:00,Courtroom 3,
+H024,CC024,2026-11-24,11:30,Courtroom 4,
+H025,CC025,2026-11-25,12:00,Courtroom 5,
+H026,CC026,2026-11-26,13:30,Courtroom 1,
+H027,CC027,2026-11-27,14:00,Courtroom 2,
+H028,CC028,2026-11-28,15:30,Courtroom 3,
+H029,CC029,2026-11-01,09:00,Courtroom 4,
+H030,CC030,2026-11-02,10:30,Courtroom 5,
+H031,CC035,2026-11-29,12:30,Courtroom 7,
